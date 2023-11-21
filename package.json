@@ -1,0 +1,20 @@
+{
+	"name": "portfolio-kk4",
+	"version": "1.0.0",
+	"main": "server.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"dev": "nodemon server.js"
+	},
+	"author": "Muhammad Daffa Izzati",
+	"license": "ISC",
+	"description": "",
+	"devDependencies": {
+		"nodemon": "^3.0.1"
+	},
+	"dependencies": {
+		"express": "^4.18.2",
+		"mongoose": "^8.0.1"
+	}
+}
